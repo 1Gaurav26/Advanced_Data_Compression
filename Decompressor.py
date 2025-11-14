@@ -62,4 +62,6 @@ label = tk.Label(root, text="Drag & Drop GLaMpress .lzma file here", width=50, h
 label.pack(padx=20, pady=20)
 label.drop_target_register(DND_FILES)
 label.dnd_bind("<<Drop>>", drop)
+
 root.mainloop()
+
