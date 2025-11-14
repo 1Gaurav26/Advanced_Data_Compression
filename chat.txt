@@ -1,0 +1,10 @@
+12/11/2023, 10:45 pm - Alice: Hey, how are you?
+12/11/2023, 10:46 pm - Bob: I'm good! You?
+12/11/2023, 10:47 pm - Alice: All fine here.
+12/11/2023, 10:50 pm - Bob: Did you finish the report?
+12/11/2023, 10:52 pm - Alice: Yes, just mailed it.
+12/11/2023, 10:55 pm - Bob: Great work!
+13/11/2023, 09:00 am - Alice: Good morning!
+13/11/2023, 09:05 am - Bob: Morning ☕
+13/11/2023, 09:06 am - Alice: Meeting at 10, right?
+13/11/2023, 09:07 am - Bob: Yep, see you there.
